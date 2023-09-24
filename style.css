@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.imagem {
+    
+    width: 100%;
+    height: 100%;
+    
+}
+input.form-control:disabled,  textarea.form-control:disabled, select.form-select:disabled {
+    border-color: red;
+    color: #fff;
+    background-color: #212121; /* Cor de fundo mais clara */
+}
+input.form-control, textarea.form-control, select.form-select{
+    border-color: red;
+}

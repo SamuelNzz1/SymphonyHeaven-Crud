@@ -1,0 +1,23 @@
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+body{
+    min-height: 100vh;
+    max-height: auto;
+}
+
+.input-group{
+    width: 50%;
+} 
+#usu{
+    width: 200px;
+    height: 100px;
+}
+.imagem {
+    
+    width: 100%;
+    height: 100%;
+    
+}
