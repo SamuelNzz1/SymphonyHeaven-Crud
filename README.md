@@ -37,8 +37,8 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/SamuelNzz1/SymphonyHeaven-Crud.git
-   cd SymphonyHeaven-Crud
+   git clone https://github.com/SamuelNzz1/SymphonyHeaven-Crud-PHP.git
+   cd SymphonyHeaven-Crud-PHP
 
 ## Algumas Telas
 
